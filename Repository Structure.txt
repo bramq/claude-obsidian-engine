@@ -1,0 +1,12 @@
+.
+├── CLAUDE.md                # The Constitution (Rules & Commands)
+├── setup.sh                 # The Automated Installer
+├── templates/
+│   ├── CONTEXT.md           # The Truth (Current Reality & Health)
+│   ├── DASHBOARD.md         # The Radar (Roadmap)
+│   ├── LOGS.md              # The History (Truncated Memory)
+│   ├── AGREEMENTS.md        # The DNA (Working Style)
+│   ├── DECISIONS.md         # The Anchor (Active Decisions)
+│   ├── PATTERNS.md          # The Knowledge (Recurring Insights)
+│   └── TASKS.md             # The Operation (Atomic Actions)
+└── README.md                # The Manual
